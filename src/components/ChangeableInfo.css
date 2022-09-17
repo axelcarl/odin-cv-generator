@@ -1,0 +1,22 @@
+.info-component {
+  display: flex;
+}
+
+.info-component div {
+  display: flex;
+}
+
+
+.info-component input {
+  width: 100px;
+}
+
+.info-component button {
+  padding: 0;
+  width: 30px;
+  height: 20px;
+  font-size: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
